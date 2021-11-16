@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/css/main.7d85017f.chunk.css",
-    "main.js": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/js/main.3b6cd66f.chunk.js",
-    "main.js.map": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/js/main.3b6cd66f.chunk.js.map",
+    "main.css": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/css/main.52163cf9.chunk.css",
+    "main.js": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/js/main.77e262ad.chunk.js",
+    "main.js.map": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/js/main.77e262ad.chunk.js.map",
     "runtime-main.js": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/js/runtime-main.b6653c6a.js",
     "runtime-main.js.map": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/js/runtime-main.b6653c6a.js.map",
     "static/js/2.673bdf78.chunk.js": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/js/2.673bdf78.chunk.js",
     "static/js/2.673bdf78.chunk.js.map": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/js/2.673bdf78.chunk.js.map",
     "index.html": "/Responsive-Modern-UI-UX-Website-in-ReactJS/index.html",
-    "static/css/main.7d85017f.chunk.css.map": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/css/main.7d85017f.chunk.css.map",
+    "static/css/main.52163cf9.chunk.css.map": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/css/main.52163cf9.chunk.css.map",
     "static/js/2.673bdf78.chunk.js.LICENSE.txt": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/js/2.673bdf78.chunk.js.LICENSE.txt",
     "static/media/logo.5114679f.svg": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/media/logo.5114679f.svg",
     "static/media/people.5cd2d6fb.png": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/media/people.5cd2d6fb.png",
+    "static/media/pic2.95194ab0.jpg": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/media/pic2.95194ab0.jpg",
     "static/media/pic5.66365d2b.jpg": "/Responsive-Modern-UI-UX-Website-in-ReactJS/static/media/pic5.66365d2b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b6653c6a.js",
     "static/js/2.673bdf78.chunk.js",
-    "static/css/main.7d85017f.chunk.css",
-    "static/js/main.3b6cd66f.chunk.js"
+    "static/css/main.52163cf9.chunk.css",
+    "static/js/main.77e262ad.chunk.js"
   ]
 }
