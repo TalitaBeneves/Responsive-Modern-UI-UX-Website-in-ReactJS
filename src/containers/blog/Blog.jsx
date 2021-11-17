@@ -1,6 +1,6 @@
 import React from 'react';
 import Article from '../../components/article/Article';
-import { pic, pic6, pic7, pic8, pic9 } from './imports';
+import { pic1, pic6, pic7, pic8, pic9 } from './imports';
 import './blog.css';
 
 
@@ -12,7 +12,7 @@ const Blog = () => {
       </div>
       <div className="gpt3__blog-container">
         <div className="gpt3__blog-container_groupA">
-          <Article imgUrl={pic} date="Nov 16, 2021" text="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
+          <Article imgUrl={pic1} date="Nov 16, 2021" text="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>
         </div>
         <div className="gpt3__blog-container_groupB">
           <Article imgUrl={pic6} date="Nov 16, 2021" text="GPT-3 and Open  AI is the future. Let us exlore how it is?"/>

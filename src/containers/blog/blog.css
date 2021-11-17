@@ -1,3 +1,4 @@
+
 .gpt3__blog {
   display: flex;
   flex-direction: column;
@@ -7,6 +8,9 @@
   width: 100%;
   text-align: left;
   margin-bottom: 5rem;
+
+  transition: transform 1s;
+  
 }
 
 .gpt3__blog-heading h1 {

@@ -102,11 +102,11 @@
 }
 
 .gpt3__header-image img {
-  width: 100%;
+  width: 120%;
   height: 100%;
 }
 
-@media screen and (max-width: 1050px) {
+@media screen and (max-width: 1060px) {
   .gpt3__header {
     flex-direction: column;
   }
